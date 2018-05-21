@@ -22,7 +22,7 @@ node index.js
 ```
 
 ## 🎮 Tutorial
-For a detailed step-by-step process on how to do this, visit URL
+For a detailed step-by-step process on how to do this, click [here](https://developers.messagemedia.com/devguides/create-a-slackbot-in-under-10-minutes-using-node-js/).
 
 ## 📃 License
 Apache License. See the [LICENSE](LICENSE) file.
