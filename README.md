@@ -1,5 +1,5 @@
 # Slackbot Node.js Tutorial
-Start-up code on how to lookup phone numbers stored in a CSV file and output the details into a separate CSV file.
+Start-up code on how to set up a Slack bot with your application.
 
 ## ⌛️ Prerequisites
 * Slack App
